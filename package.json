@@ -1,0 +1,23 @@
+{
+    "name": "com.hypergnosys.firebase-integration",
+    "version": "1.0.0",
+    "displayName": "HGFirebaseIntegration",
+    "description": "Recursos para facilitar la implementación de Firebase",
+    "unity": "2020.3",
+    "unityRelease": "11f1",
+    "documentationUrl": "https://github.com/Rahgnoruk/HGFirebaseIntegration",
+    "changelogUrl": "https://github.com/Rahgnoruk/HGFirebaseIntegration",
+    "licensesUrl": "https://github.com/Rahgnoruk/HGFirebaseIntegration",
+    "keywords": [
+      "HyperGnosys",
+      "Firebase",
+      "Firebase Unity SDK"
+    ],
+    "author": {
+      "name": "Sergio Raimond",
+      "email": "sergio.raimond@hypergnosys.com",
+      "url": "https://www.hypergnosys.com"
+    },
+    "dependencies": {
+    }
+  }
